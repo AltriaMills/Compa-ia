@@ -1,0 +1,8 @@
+C:\Users\marif\OneDrive\Documentos\Compañia\Compañia\bin\Debug\Compañia.exe.config
+C:\Users\marif\OneDrive\Documentos\Compañia\Compañia\bin\Debug\Compañia.exe
+C:\Users\marif\OneDrive\Documentos\Compañia\Compañia\bin\Debug\Compañia.pdb
+C:\Users\marif\OneDrive\Documentos\Compañia\Compañia\obj\Debug\Compañia.csproj.AssemblyReference.cache
+C:\Users\marif\OneDrive\Documentos\Compañia\Compañia\obj\Debug\Compañia.csproj.SuggestedBindingRedirects.cache
+C:\Users\marif\OneDrive\Documentos\Compañia\Compañia\obj\Debug\Compañia.csproj.CoreCompileInputs.cache
+C:\Users\marif\OneDrive\Documentos\Compañia\Compañia\obj\Debug\Compañia.exe
+C:\Users\marif\OneDrive\Documentos\Compañia\Compañia\obj\Debug\Compañia.pdb
